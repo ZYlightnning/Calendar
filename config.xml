@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <event>
+        <time>11:00:00</time>
+        <text>打篮球</text>
+    </event>
+    <event>
+    <time>13:00:00</time>
+    <text>唱</text>
+    </event>
+    <event>
+        <time>16:00:00</time>
+        <text>跳</text>
+    </event>
+    <event>
+        <time>17:00:00</time>
+        <text>打篮球</text>
+    </event>
+    <event id="3">
+        <time>18:00:00</time>
+        <text>rap</text>
+    </event>
+<event><time>21:00:00</time><text>打篮球</text></event><event><time>22:00:00</time><text>打游戏</text></event></config>
